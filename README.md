@@ -27,7 +27,9 @@ Machine Learning • Data Structures • OOP
 📫 Connect With Me
 
 📧 Email: sachin25062003@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/sachin-pal-1378a4290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+💼LinkedIn:
+https://www.linkedin.com/in/sachin-pal-1378a4290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 🌐 Portfolio: 
 
 ✨ Quote I Follow
