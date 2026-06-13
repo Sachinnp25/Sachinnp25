@@ -1,37 +1,90 @@
-👋 Hi, I'm Sachin
+# Sachin
 
-🎓 BCA (AI & ML) Student
-💻 Learning Programming, AI, and Software Development
-🚀 Passionate about building real-world tech solutions
+### BCA (Artificial Intelligence & Machine Learning) Student | Aspiring Software Developer | AI & Data Science Enthusiast
 
-🧑‍💻 About Me
+I am currently pursuing a Bachelor of Computer Applications (BCA) with a specialization in Artificial Intelligence and Machine Learning at Galgotias University. I am passionate about software development, data analytics, and machine learning, with a strong interest in building technology solutions that solve real-world problems. I continuously work on improving my programming, problem-solving, and analytical skills through academic projects and self-learning.
 
-🌱 Currently learning: Python, Java, AI/ML concepts
-🎯 Goal: Become a skilled AI Engineer / Software Developer
-💡 Interested in: Coding, automation, problem solving, tech innovations
-📚 Always exploring new technologies
+---
 
-🛠️ Skills
+## Education
 
-Languages:
-Python • Java • C • SQL
-Web:
-HTML • CSS • Basic JavaScript
-Tools:
-Git • GitHub • VS Code • Jupyter Notebook
-Learning:
-Machine Learning • Data Structures • OOP
+**Galgotias University**
+Bachelor of Computer Applications (BCA) – Artificial Intelligence & Machine Learning
+Expected Graduation: 2027
 
-📊 GitHub Stats
+---
 
-📫 Connect With Me
+## Technical Skills
 
-📧 Email: sachin25062003@gmail.com
+### Programming Languages
 
-💼LinkedIn:
-https://www.linkedin.com/in/sachin-pal-1378a4290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-🌐 Portfolio: 
+* Python
+* Java
+* C
+* C++
+* SQL
 
-✨ Quote I Follow
+### Database Technologies
 
-"Consistency beats talent when talent doesn’t work hard."
+* MySQL
+* Database Management Systems (DBMS)
+
+### Data Science & Machine Learning
+
+* Pandas
+* NumPy
+* Scikit-learn
+* Matplotlib
+* Data Preprocessing
+* Machine Learning Fundamentals
+
+### Software Development Tools
+
+* Git
+* GitHub
+* Visual Studio Code
+* Jupyter Notebook
+* Android Studio
+
+### Core Computer Science Concepts
+
+* Object-Oriented Programming (OOP)
+* Data Structures
+* Database Design
+* Problem Solving
+* Software Development Lifecycle (SDLC)
+
+---
+
+## Academic Projects
+
+### Crop Yield Prediction
+
+Developed a machine learning-based system to predict crop yield using agricultural datasets. Performed data preprocessing, exploratory data analysis, model training, and visualization using Python and machine learning libraries.
+
+### Student Management System
+
+Designed and implemented a database-driven application using Python and MySQL to manage student records, attendance, course information, and academic data through structured SQL operations.
+
+---
+
+## Career Interests
+
+* Software Development
+* Artificial Intelligence & Machine Learning
+* Data Analytics
+* Database Development
+* Backend Development
+* Cloud & Emerging Technologies
+
+---
+
+## Connect With Me
+
+**Email:** [Sachin25.code@gmail.com](mailto:Sachin25.code@gmail.com)
+
+**LinkedIn:** [www.linkedin.com/in/sachin-pal-1378a4290](http://www.linkedin.com/in/sachin-pal-1378a4290)
+
+---
+
+*"Consistency beats talent when talent doesn't work hard."*
